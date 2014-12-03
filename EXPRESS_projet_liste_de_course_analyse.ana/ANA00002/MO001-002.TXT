@@ -1,3 +1,0 @@
-//MO001-002.TXT ANA00001 TO ANA00002
-EXPRESS_article		NFI		nouveau fichier
-EXPRESS_liste		NWL	EXPRESS_liste (IDEXPRESS_liste) et EXPRESS_article (IDEXPRESS_liste)	Nouvelle liaison entre les fichiers EXPRESS_liste (IDEXPRESS_liste) et EXPRESS_article (IDEXPRESS_liste)
