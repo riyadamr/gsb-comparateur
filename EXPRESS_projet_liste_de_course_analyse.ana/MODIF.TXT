@@ -1,0 +1,9 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+EXPRESS_article		TAR	84	nouvelle taille enregistrement : 84
+EXPRESS_article	Express_Version	RUB+		Express_Version est une nouvelle rubrique
+EXPRESS_article	Express_Version	RUB-		la rubrique Express_Version est supprimée
+EXPRESS_article	IDEXPRESS_liste	RUB-		la clé IDEXPRESS_liste est supprimée
+EXPRESS_article_EXPRESS_liste		NFI		nouveau fichier
+EXPRESS_article		NWL	EXPRESS_article (IDEXPRESS_article) et EXPRESS_article_EXPRESS_liste (IDEXPRESS_article)	Nouvelle liaison entre les fichiers EXPRESS_article (IDEXPRESS_article) et EXPRESS_article_EXPRESS_liste (IDEXPRESS_article)
+EXPRESS_liste		NWL	EXPRESS_liste (IDEXPRESS_liste) et EXPRESS_article_EXPRESS_liste (IDEXPRESS_liste)	Nouvelle liaison entre les fichiers EXPRESS_liste (IDEXPRESS_liste) et EXPRESS_article_EXPRESS_liste (IDEXPRESS_liste)
+EXPRESS_liste		DEL	EXPRESS_liste (IDEXPRESS_liste) et EXPRESS_article (IDEXPRESS_liste)	Liaison supprimée entre les fichiers EXPRESS_liste (IDEXPRESS_liste) et EXPRESS_article (IDEXPRESS_liste)
