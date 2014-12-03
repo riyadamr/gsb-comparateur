@@ -1,0 +1,7 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+EXPRESS_Produit		NFI		nouveau fichier
+EXPRESS_Laboratoire		NFI		nouveau fichier
+EXPRESS_Laboratoire		NWL	EXPRESS_Laboratoire (nomLaboratoire) et EXPRESS_Produit (NomLaboratoire_CE)	Nouvelle liaison entre les fichiers EXPRESS_Laboratoire (nomLaboratoire) et EXPRESS_Produit (NomLaboratoire_CE)
+Connexion HFSQL Classic		CNX+		
+EXPRESS_Produit		FRN		
+EXPRESS_Laboratoire		FRN		
